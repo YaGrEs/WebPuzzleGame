@@ -1,0 +1,46 @@
+.dot{
+    position: absolute;
+    height: 100px;
+    width: 100px;
+    margin-top: 30px;
+    background-color: #01ff0c;
+    border-radius: 50%;
+    margin-right: 600px;
+    margin-left: 600px;
+}
+.dot2{
+    position: absolute;
+    height: 100px;
+    width: 100px;
+    margin-top: 30px;
+    background-color: #01ff0c;
+    border-radius: 50%;
+    margin-right: 750px;
+    margin-left: 750px;
+}
+.bord{
+    position: absolute;
+    width: 300px;	height: 300px;
+    background: rgba(255, 255, 255, 0);
+    outline: 2px solid #000;
+    border: 3px solid #fff;
+    margin-right: 570px;
+    margin-left: 570px;
+}
+
+.ftxt{
+    position: absolute;
+    margin-top: 200px;
+    margin-right: 600px;
+    margin-left: 617px;
+    font-family: "Dela Gothic One";
+}
+
+
+.stxt{
+    position: absolute;
+    margin-top: 200px;
+    margin-right: 800px;
+    margin-left: 775px;
+    font-family: "Dela Gothic One";
+}

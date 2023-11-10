@@ -1,0 +1,26 @@
+div {
+    font-family: "Dela Gothic One";
+    text-align: center;
+}
+
+.Second, .Button{
+    margin-top: 50px;
+}
+
+.Button {
+    font-family: "Dela Gothic One";
+    border: 0px solid;
+    border-radius: 30px;
+    height: 50px;
+    width: 200px;
+    box-shadow: 10px 5px 5px black;
+}
+
+.Button:hover {
+    background-color: rgb(235, 235, 0);
+}
+
+.Button:active {
+    box-shadow: 0px 0px 0px black;
+}
+
